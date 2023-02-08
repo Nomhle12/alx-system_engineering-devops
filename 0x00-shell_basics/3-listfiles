@@ -1,0 +1,3 @@
+#!/bin/bash
+ls -la
+3-listfiles
